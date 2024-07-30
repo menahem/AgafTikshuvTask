@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.MuiFormLabel-root {
+  left: inherit !important;
+  right: 1.75rem !important;
+  transform-origin: right !important;
+}
+.MuiFormLabel-root + .MuiOutlinedInput-root fieldset {
+  text-align: right;
+}
+
+.MuiSvgIcon-root.MuiSelect-icon {
+  text-align: right;
+  right: auto!important;
+  left: 7px!important;
+}
