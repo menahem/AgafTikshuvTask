@@ -39,6 +39,23 @@ NodeServer:
 Troubleshooting:
 Change the user/Password in the in server.js file to regarding to the user/password of you elasticsearch installtion
 
+*************************
+Architecture Information:
+*************************
+GCP - Architecture
+
+React App (Frontend) - will be hosted by Cloud Storage
+
+.NET Core WebApi (Backend): will be hosted by GKE or Compute Engine
+
+DB will be hosted by Cloud SQL
+
+Node server (Backend): will be hosted by GKE or Compute Engine
+
+ElasticSearch can be hosted by Elastic Cloud or self-managed with Google GKE/GCE
+
+![Architacture-diagrm](https://github.com/user-attachments/assets/dfffcdb5-6bce-42e7-bc6b-81aaccb945bf)
+
 
 
 
