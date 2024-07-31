@@ -56,6 +56,11 @@ ElasticSearch can be hosted by Elastic Cloud or self-managed with Google GKE/GCE
 
 ![Architacture-diagrm](https://github.com/user-attachments/assets/dfffcdb5-6bce-42e7-bc6b-81aaccb945bf)
 
+Demo:
+
+![Screen1](https://github.com/user-attachments/assets/b428cf05-dcc6-4b68-92de-e3aa0604d685)
+
+![Screen2](https://github.com/user-attachments/assets/17a450c6-40b0-4b40-9e2e-bb1dea8743f7)
 
 
 
