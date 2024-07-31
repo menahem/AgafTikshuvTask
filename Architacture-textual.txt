@@ -1,0 +1,13 @@
+
+GCP - Architecture
+
+React App (Frontend) - will be hosted by Cloud Storage
+
+.NET Core WebApi (Backend): will be hosted by GKE or Compute Engine
+
+DB will be hosted by Cloud SQL
+
+Node server (Backend): will be hosted by GKE or Compute Engine
+
+ElasticSearch can be hosted by Elastic Cloud or self-managed with Google GKE/GCE
+
